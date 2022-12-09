@@ -1,3 +1,27 @@
 body {
+  background-color: violet
+}
+
+nav {
+  list-style-type: none;
+  background-color: #F9F7F3;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li{
+  display: inline;
+  padding: 50px;
+  float: center;
+  length: 13px
+}
+li:hover{
+  background-color: gold;
+}
+
+h2 {
+  color: blue
 
 }
